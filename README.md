@@ -1,6 +1,6 @@
 
-# StudentManagementSystem
-Designed and developed a web-based Student Management System usingJava, Spring Boot, Spring MVC, Spring Data JPA, MySQL, and Thymeleaf
+### StudentManagementSystem
+>>Designed and developed a web-based Student Management System usingJava, Spring Boot, Spring MVC, Spring Data JPA, MySQL, and Thymeleaf
 ![image](https://github.com/scanurag/StudentManagementSystem1/assets/90509642/bd317ed3-9f05-4019-8e5c-fdead8deab5b)
 ![image](https://github.com/scanurag/StudentManagementSystem1/assets/90509642/c9dc9f76-caf8-442e-af8a-07e8fbcb7edc)
 ![image](https://github.com/scanurag/StudentManagementSystem1/assets/90509642/46a788c0-9ad9-49b7-bf20-bcbf13ba030d)
